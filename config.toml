@@ -1,0 +1,4 @@
+baseURL = 'http://vivaldimovies.com/'
+languageCode = 'en-us'
+title = 'Vivaldi in movies'
+theme = "ananke"
